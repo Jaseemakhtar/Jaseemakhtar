@@ -12,7 +12,10 @@
 <hr>
 
 #### Connect with me: 
+
 <a href="https://www.linkedin.com/in/jaseemakhtar/" target="_blank"><img height="30px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" /></a>
+&nbsp;&nbsp;
+<a href="https://www.sololearn.com/profile/1121510" target="_blank"><img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png" /></a>
 &nbsp;&nbsp;
 <a href="https://t.me/Jaseemakhtar" target="_blank"><img height="32px" src="https://telegram.org/img/t_logo.png?1" /></a>
 &nbsp;&nbsp;
