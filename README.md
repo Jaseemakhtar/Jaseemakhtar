@@ -1,12 +1,12 @@
 ## Assalamualaikum, I am Jaseem-Akhtar Amaljeri. 👋
 ### Software Engineer | MCA Graduate
 <p>
-  Passionate about art, electronics, programming.
-  I enjoy working with UI/UX, CG Algorithms, etc. <br>
-  I also do 3d modeling (Blender), 3d printing, Digital Art - Drawing & Painting (Photoshop, Illustrator, Krita), electronics (Arduino), etc. Alhamdulillah 😊
+  Passionate about art & programming.
+  I enjoy working with UI/UX, CG, etc. <br>
+  In my free time do 3d modeling (Blender), Digital Drawing.
 </p>
 
-#### Some of my art (Drawing & Painting skill) 🙈: 
+#### Some of my drawings 🙈: 
 <a href="https://www.artstation.com/jaseem-akhtar"><img width="122px" src="https://www.artstation.com/assets/logo-da586a7166dda92ede057f15b12c0e8c.svg" /></a>
 
 <hr>
