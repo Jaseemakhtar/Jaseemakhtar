@@ -1,7 +1,7 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
 ### MCA Graduate | Software Engineer | Android - Kotlin - JetpackCompose 
 
-- 🔭 I’m currently working on my own personal project on weekends (The app is completely built on Jetpack Compose) [ Got many likes on twitter | <a href="https://twitter.com/jaseemakhtar08/status/1501952573183463426"> Here's glimpse of it</a>
+- 🔭 I’m currently working on my own personal project on weekends. The app is completely built on Jetpack Compose - Check how people reacted on twitter 👉 <a href="https://twitter.com/jaseemakhtar08/status/1501952573183463426"> here</a>
 - 🌱 I’m currently learning JetpackCompose
 
 <p>
