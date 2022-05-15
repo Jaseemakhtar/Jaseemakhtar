@@ -1,14 +1,19 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
-### MCA Graduate | Software Engineer | Android - Kotlin - JetpackCompose 
+### MCA Graduate | Software Engineer - Android | UI/UX 💕
 
-- 🔭 I’m currently working on my own personal project on weekends. The app is completely built on Jetpack Compose - Check how people reacted on twitter 👉 <a href="https://twitter.com/jaseemakhtar08/status/1501952573183463426"> here</a>
-- 🌱 I’m currently learning JetpackCompose
+- 🔭 I'm currently working on my personal pet <a href="https://github.com/jaseemakhtar/composecg">project</a> over weekends
 
-<p>
-  I'm passionate about technology, I love working on UI/UX (creating custom views, animations, transitions, etc.) <br>
-  I also love Digital Drawing/Sketching, 3d modeling (Blender) - Some of my drawings can be found here: <br><br>
-  <a href="https://www.artstation.com/jaseem-akhtar"><img src="https://img.shields.io/badge/Artstation-1DA1F2?style=for-the-badge&logo=Artstation&logoColor=white" /></a>
-</p>
+
+  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
+  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Koch_curve.gif" width="86" />
+  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="86" />
+
+- 🌱 I’m currently learning everyting 😅😂
+- 🖥️ I love UI/UX
+- 🖌️ I also do digital drawing/sketching in my free time.
+- 😄 Pronouns: He/Him
+
+<a href="https://www.artstation.com/jaseem-akhtar"><img src="https://img.shields.io/badge/Artstation-1DA1F2?style=for-the-badge&logo=Artstation&logoColor=white" /></a>
 
 <hr>
 
