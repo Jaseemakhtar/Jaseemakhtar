@@ -1,7 +1,7 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
 ### MCA Graduate | Software Engineer - Android | UI/UX 💕
 
-- 🔭 I'm currently working on my personal pet <a href="https://github.com/jaseemakhtar/composecg">project</a> over weekends
+- 🔭 I'm currently working on serveral personal pet like this one <a href="https://github.com/jaseemakhtar/composecg">project</a> over weekends
 
 
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
