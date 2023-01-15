@@ -1,5 +1,5 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
-### MCA Graduate | Software Engineer - Android | UI/UX 💕
+### MCA Graduate | Software Engineer - Android | UI 💕
 
 - 🔭 I'm currently working on several personal pet projects like this one <a href="https://github.com/jaseemakhtar/composecg">project</a> over weekends
 
@@ -9,7 +9,7 @@
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="86" />
 
 - 🌱 I’m currently learning everyting 😅😂
-- 🖥️ I love UI/UX
+- 🖥️ I love UI
 - 🖌️ I also do digital drawing/sketching in my free time.
 - 😄 Pronouns: He/Him
 
