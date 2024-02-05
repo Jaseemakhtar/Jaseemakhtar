@@ -1,17 +1,14 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
-### MCA Graduate | Software Engineer - Android | UI 💕
+### MCA Graduate | Software Engineer - Android | UI Specialist 💕
 
-- 🔭 I'm currently working on several personal pet projects like this one <a href="https://github.com/jaseemakhtar/composecg">project</a> over weekends
-
-
+- 🔭 I'm currently working at ![@Lumi](https://github.com/orgs/lumirental) as Senior Android developer.
+- 🖥️ I love working on UI from scratch, creating custom components,drawing on canvas, etc.
+- 🌱 I also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360); Basically I love making things.
+- 😄 Pronouns: He/Him
+- Some popular projects <br>
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Koch_curve.gif" width="86" />
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="86" />
-
-- 🌱 I’m currently learning everyting 😅😂
-- 🖥️ I love UI
-- 🖌️ I also do digital drawing/sketching in my free time.
-- 😄 Pronouns: He/Him
 
 <a href="https://www.artstation.com/jaseem-akhtar"><img src="https://img.shields.io/badge/Artstation-1DA1F2?style=for-the-badge&logo=Artstation&logoColor=white" /></a>
 
