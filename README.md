@@ -2,7 +2,7 @@
 ### MCA Graduate | Software Engineer - Android | UI Specialist 💕
 
 - 🔭 I'm currently working at ![@Lumi](https://github.com/orgs/lumirental) as Senior Android developer.
-- 🖥️ I love working on UI from scratch, creating custom components,drawing on canvas, etc.
+- 🖥️ I love working on UI from scratch, creating custom components, drawing on canvas, animations, transitions, etc.
 - 🌱 I also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360); Basically I love making things.
 - 😄 Pronouns: He/Him
 - Some popular projects <br>
