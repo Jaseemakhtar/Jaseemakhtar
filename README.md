@@ -1,9 +1,9 @@
 ## Assalamualaikum, I am Jaseem-Akhtar 👋
-### MCA Graduate | Software Engineer - Android | UI Specialist 💕
+### MCA Graduate | Software Engineer - Android | UI Specialist | Creative Coder
 
 - 🔭 I'm currently working at ![@Lumi](https://github.com/orgs/lumirental) as Senior Android developer.
 - 🖥️ I love working on UI from scratch, creating custom components, drawing on canvas, animations, transitions, etc.
-- 🌱 I also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360); Basically I love making things.
+- 🌱 I also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360 / FreeCAD); Basically I love making things.
 - 😄 Pronouns: He/Him
 - Some popular projects <br>
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
