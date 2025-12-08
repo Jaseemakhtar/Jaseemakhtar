@@ -5,10 +5,18 @@
 - 🖥️ I love working on UI from scratch, creating custom components, drawing on canvas, animations, transitions, etc.
 - 🌱 I am learning Robotics, also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360 / FreeCAD); Basically I love making things.
 - 😄 Pronouns: He/Him
+- The Robot I made from scratch <br>
+  <img style="float: left;" src="https://github.com/user-attachments/assets/6b888cfc-19aa-4a49-8376-ea0014f5e4c7" width="140" />
+  <img style="float: left;" src="https://github.com/user-attachments/assets/ac9c79f1-ef52-4c09-a4ea-d8326a095db8" width="140" />
+  <img style="float: left;" src="https://github.com/user-attachments/assets/1f2c7d4e-8ce7-4601-a45d-9a96e8dff5a2" width="140" />
 - Some popular projects <br>
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Koch_curve.gif" width="86" />
   <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="86" />
+
+
+
+  
 
 <a href="https://www.artstation.com/jaseem-akhtar"><img src="https://img.shields.io/badge/Artstation-1DA1F2?style=for-the-badge&logo=Artstation&logoColor=white" /></a>
 
