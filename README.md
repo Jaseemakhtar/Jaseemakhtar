@@ -1,18 +1,37 @@
-## Assalamualaikum, I am Jaseem-Akhtar 👋
-### MCA Graduate | Software Engineer - Android | UI Specialist | Creative Coder
+<div align="center">
 
-- 🔭 I'm Senior Android developer.
-- 🖥️ I love working on UI from scratch, creating custom components, drawing on canvas, animations, transitions, etc.
-- 🌱 I am learning Robotics, also do electronics, play with MCUs, Design PCBs (in KiCad), 3d modeling (in Fusion 360 / FreeCAD); Basically I love making things.
-- 😄 Pronouns: He/Him
-- The Robot I made from scratch <br>
-  <img style="float: left;" src="https://github.com/user-attachments/assets/6b888cfc-19aa-4a49-8376-ea0014f5e4c7" width="140" />
-  <img style="float: left;" src="https://github.com/user-attachments/assets/ac9c79f1-ef52-4c09-a4ea-d8326a095db8" width="140" />
-  <img style="float: left;" src="https://github.com/user-attachments/assets/1f2c7d4e-8ce7-4601-a45d-9a96e8dff5a2" width="140" />
-- Some popular projects <br>
-  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="86" />
-  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Koch_curve.gif" width="86" />
-  <img style="float: left;" src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="86" />
+# Assalamualaikum, I'm Jaseem Akhtar 👋
+
+### Master's Graduate | Senior Android Engineer
+**Specializing in complex, mathematically advanced, and non-standard UI components.**
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 **Senior Android Developer** with a passion for the deep end of the framework.
+- 🎨 **UI Architect:** I love building UI from scratch, creating custom Views, drawing on Canvas, and crafting complex animations and transitions.
+- 🤖 **Maker at Heart:** When I'm not coding apps, I'm learning **Robotics**. I enjoy electronics, MCU programming, PCB Design (KiCad), and 3D modeling (Fusion 360 / FreeCAD).
+- 😄 **Pronouns:** He/Him
+
+---
+
+### 🤖 My Handcrafted Robot
+*A quadruped robot I designed, modeled, and built from scratch.*
+
+| Gesture | X, Y & Z Translation | Roll, Pitch & Yaw Rotations |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/6b888cfc-19aa-4a49-8376-ea0014f5e4c7" width="200" /> | <img src="https://github.com/user-attachments/assets/ac9c79f1-ef52-4c09-a4ea-d8326a095db8" width="200" /> | <img src="https://github.com/user-attachments/assets/1f2c7d4e-8ce7-4601-a45d-9a96e8dff5a2" width="200" /> |
+
+---
+
+### 📐 Computational Graphics & UI
+*Examples of my work with mathematical UI rendering (Sierpinski Triangle, Koch Curve, Bezier Curve).*
+
+| Sierpinski | Koch Curve | Bezier Curve |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Seipinsky_triangle.gif" width="160" /> | <img src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Koch_curve.gif" width="160" /> | <img src="https://raw.githubusercontent.com/Jaseemakhtar/ComposeCG/main/art/Bezier_curve.gif" width="160" /> |
 
 
 
