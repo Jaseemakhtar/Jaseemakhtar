@@ -1,9 +1,8 @@
 <div align="center">
 
-# Assalamualaikum, I'm Jaseem Akhtar 👋
-
-### Master's Graduate | Senior Android Engineer
-**Specializing in complex, mathematically advanced, and non-standard UI components.**
+<h3>Assalamualaikum 👋, I'm <b>Jaseem Akhtar</b></h3>
+<h4>🎓 Master's Graduate | 💻 Senior Software Engineer (Android)</h4>
+<h4>Known as the go-to person for building complex, mathematically advanced, non-standard UI components</h4>
 
 </div>
 
@@ -20,7 +19,7 @@
 ### 🤖 My Handcrafted Robot
 *A quadruped robot I designed, modeled, and built from scratch.*
 
-| Gesture | X, Y & Z Translation | Roll, Pitch & Yaw Rotations |
+| Hi Gesture | X, Y & Z Translation | Roll, Pitch & Yaw Rotations |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/6b888cfc-19aa-4a49-8376-ea0014f5e4c7" width="200" /> | <img src="https://github.com/user-attachments/assets/ac9c79f1-ef52-4c09-a4ea-d8326a095db8" width="200" /> | <img src="https://github.com/user-attachments/assets/1f2c7d4e-8ce7-4601-a45d-9a96e8dff5a2" width="200" /> |
 
