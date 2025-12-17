@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Assalamualaikum 👋, I'm <b>Jaseem Akhtar</b></h3>
+<h3>Hello 👋, I'm <b>Jaseem Akhtar</b></h3>
 <h4>🎓 Master's Graduate | 💻 Senior Software Engineer (Android)</h4>
 <h4>Known as the go-to person for building complex, mathematically advanced, non-standard UI components</h4>
 
